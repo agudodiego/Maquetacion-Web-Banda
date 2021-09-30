@@ -5,6 +5,10 @@
     font-family: 'Krona One', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 /* ----------Header/Menu----------- */
 .header{
     background: url(images/fondo.jpg);
